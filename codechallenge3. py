@@ -43,7 +43,9 @@ else :
 	print("Standard rate is applied")
 
 
-print("--------------------------")
+print("<----------------------------------------->")
 print("Name of the Sender : ", Sender_Name)
 print("Type of Item : ", Type_of_Item )
 print("Total Output  : PHP ", Total)
+print("Your Package is ready to be shipped") 
+print("Thank You and Come Again!") 
